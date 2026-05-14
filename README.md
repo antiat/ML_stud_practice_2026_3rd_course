@@ -88,5 +88,4 @@ project/
 ├── dataset.csv
 ├── Stud_practice.ipynb
 ├── README.md
-├── requirements.txt
 └── report.pdf
